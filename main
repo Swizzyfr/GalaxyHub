@@ -267,10 +267,10 @@ local Section = Tab:AddSection({
 	Name = " or discord : swizzy.com [not a website its a discord tag lol]"
 })
 local Section = Tab:AddSection({
-	Name = "And if Someone gave out"
+	Name = "And if Someone gave it"
 })
 local Section = Tab:AddSection({
-	Name = "it out without this discord tag specified then its not the owner [obviously]"
+	Name = "Out without this discord tag specified then its not the owner [obviously]"
 })
 
 
