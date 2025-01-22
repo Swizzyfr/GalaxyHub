@@ -1,5 +1,5 @@
 print("Sucessfully Ran The Galaxy Hub [Made By Swizzy, For More Info Go to the Credits] Page")
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/jensonhirst/Orion/refs/heads/main/source')))()
 local Window = OrionLib:MakeWindow({Name = "Galaxy Hub V1.2", HidePremium = false, SaveConfig = true, IntroEnabled = false, ConfigFolder = "OrionTest"})
 local Tab = Window:MakeTab({
 	Name = "Main",
