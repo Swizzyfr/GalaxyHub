@@ -264,7 +264,7 @@ local Section = Tab:AddSection({
 })
 
 local Section = Tab:AddSection({
-	Name = " or discord : swizzy.com [not a website its a discord tag lol]"
+	Name = " or discord : swizzy.org or swizzy.com [keeps getting termed though.]"
 })
 local Section = Tab:AddSection({
 	Name = "And if Someone gave it"
